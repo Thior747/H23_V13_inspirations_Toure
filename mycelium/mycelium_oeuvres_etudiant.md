@@ -80,6 +80,12 @@ Il y a des équipes qui ont utilisé le capteur de mouvement. Je savais que ça 
 
 <h3>Nexum</h3>  Je crois que je serais satisfait de cet installations après l’avoir faites car elle était très prometteur et ça sera beau à voir.
 
+<h1>Sources</h1>
+
+https://tim-montmorency.com/2023/
+
+https://www.futura-sciences.com/maison/definitions/maison-detecteur-mouvement-10637/
+
 
 
 
