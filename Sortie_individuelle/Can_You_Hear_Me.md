@@ -43,3 +43,14 @@ Parcontre, j'ai quand même apprécié l'utilisation des petits fauteuils, qui �
 
 En conclusion, même si l'expérience visuelle a été un peu fatigante pour moi à cause de la complexité des images superposées et des bruits intenses, j'ai trouvé que l'installation dans son ensemble était intéressante et méritait d'être explorée. L'utilisation  des fauteuils et la possibilité de prendre son temps pour observer et apprécier les projections ont ajouté un plus à l'ensemble de l'expérience.
 
+<h2>Sources</h2>
+
+https://www.whitechapelgallery.org/about/blog/nalini-malani-can-you-hear-me/
+
+https://www.mbam.qc.ca/fr/expositions/nalini-malani/
+
+https://artasiapacific.com/Magazine/WebExclusives/CanYouHearMeNaliniMalani
+
+https://www.whitechapelgallery.org/exhibitions/nalini-malani-can-you-hear-me/
+
+https://www.agsa.sa.gov.au/whats-on/exhibitions/nalini-malani-gamepieces/can-you-hear-me/#:~:text=Can%20You%20Hear%20Me%3F%20is,finger%2Ddrawn%20micro%2Dnarratives.
