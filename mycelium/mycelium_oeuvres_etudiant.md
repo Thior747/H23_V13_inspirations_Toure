@@ -60,14 +60,27 @@ L’installation Nexum est basé sur un capteur de mouvement qui permet d'active
 Je place cette installation en quatrième place car même si c’est un super projet très prometteur, il n’est pas vraiment venu me chercher à l’intérieur. De plus je trouve quand même que le code QR est une excellente idée. Il rajoute un plus à l’installation et nous permets de pouvoir profiter l’œuvre avec notre téléphone aussi, généralement pour moi c’est toujours plus amusant de pouvoir sortir mon téléphone pour scanner et profiter dans mon téléphone et la vraie vie. Mais malheureusement je trouvais quand même qu’il y manquait quelque chose pour se démarquer des autres installations. C’est tout de même un super projet.
 
 <h1>Cours incontournable</h1>
-1.Conception sonore : Car tout les projets auront besoin de musique et d’avoir du bon son de qualité.
 
-2.Animation 2d : Deux des quatre équipes auront besoin de after effect pour pouvoir créer leurs animations.
+<h3>1.Conception sonore </h3> Car tout les projets auront besoin de musique et d’avoir du bon son de qualité.
 
-3.Documentation d’une collection multimédia : Toute les équipe on un énormes document de préproduction et le cours qui nous apprends a documenter des installations est le cours de documentation.
+<h3>2.Animation 2d </h3> Deux des quatre équipes auront besoin de after effect pour pouvoir créer leurs animations.
+
+<h3>3.Documentation d’une collection multimédia </h3> Toute les équipe on un énormes document de préproduction et le cours qui nous apprends a documenter des installations est le cours de documentation.
 
 <h1>Technique inconnu</h1>
 Il y a des équipes qui ont utilisé le capteur de mouvement. Je savais que ça existait mais je ne savais pas exactement comment ils fonctionnaient. Après quelques recherches, j’ai appris qu’il y a deux types de capteurs : les infrarouges et capteurs à micro-ondes. Parfois ces deux capteurs son mis ensemble dans le même capteur. Donc les capteurs détectent principalement les changements de température, il détecte les rayonnement infrarouge émis par l’humain et la différence de température capter envoi un signal électrique au système de détection.
+
+<h1>Ressenti face aux installations</h1>
+
+<h3>Edria</h3>  Je pense que je m’amuserais beaucoup avec cette installations grâce à la musique qui se rajoute à chaque personne qui rentre.
+
+<h3>Echomarine</h3> Je crois que ça sera une expérience intéressante puisque j’en apprendrais d’avantage sur les animaux marins. Je crois que je serais satisfait de mon expérience
+
+<h3>Lumasol</h3>  Lumasol serait très intéressant à faire mais je crois que je serais fatigué après a force de pédaler.
+
+<h3>Nexum</h3>  Je crois que je serais satisfait de cet installations après l’avoir faites car elle était très prometteur et ça sera beau à voir.
+
+
 
 
 
